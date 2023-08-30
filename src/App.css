@@ -1,5 +1,5 @@
 body{
-  background-image: url('C:\Users\Sajid Bashir\Desktop\ReactJs\rockcalculator-app\src\components\photorock.jpg');
+  background-image: url('./components/photorock.jpg');
   background-repeat: no-repeat;
   background-size: cover;
 }
